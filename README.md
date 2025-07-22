@@ -14,5 +14,5 @@ https://thetimevortex.net
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDoctor121027&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDoctorTTV&show_icons=true)  
 
