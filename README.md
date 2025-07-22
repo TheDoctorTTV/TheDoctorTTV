@@ -1,6 +1,6 @@
 # Hello there, I'm the Doctor 👋
 
-I stream on YouTube and Twitch. I run my own minecraft server network, IP available on my website and I am still a beginner in terms of programming, one reason for this is I am very much self taught. One thing that allowed me to learn so much about programming is VRChat. Developing my world has taught me so much.
+I stream on YouTube and Twitch. I am still a beginner in terms of programming, one reason for this is I am very much self taught. One thing that allowed me to learn so much about programming is VRChat. Developing my world has taught me so much.
 
 ## Skills
 - 🌐 | HTML | CSS |
