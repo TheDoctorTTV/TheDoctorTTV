@@ -1,16 +1,27 @@
 # Hello there, I'm the Doctor 👋
 
-I stream on YouTube and Twitch. I am still a beginner in terms of programming, one reason for this is I am very much self taught. One thing that allowed me to learn so much about programming is VRChat. Developing my world has taught me so much.
+I stream on YouTube and Twitch. I have a moderate amount of programming experience, much of which I gained through developing my VRChat world. **2025 has been a significant year, as developing my website, [The Time Vortex](https://thetimevortex.net), has dramatically expanded my knowledge in APIs, Databases, and self-hosting services.**
 
-## Skills
-- 🌐 | HTML | CSS |
-- 🎮 | C# | Python | U# (VRChat Specific) | UGraph (VRChat Specific) |
-## What am I doing?
-- 🔭 I’m currently working on development for my vrchat world, my website and my YouTube and Twitch 
-- 🌱 I’m currently learning C# and U# and excited to learn more languages.
+## 🛠️ Skills and Tools
 
-## Website
-https://thetimevortex.net
+### Web & General
+* **HTML**
+* **CSS**
+* **APIs**
+* **Databases**
+* **Self-Hosting**
+
+### Game/Engine Development
+* **C#**
+* **Python**
+* **U#** (VRChat/Udon Sharp)
+* **UGraph** (VRChat/Visual Scripting)
+  
+## 🎯 Current Focus
+
+* 🔭 Currently focused on **VRChat world development**, streaming on **YouTube & Twitch**, and managing my **website**.
+* **✨ 2025 Milestone:** **I successfully developed and self-hosted my website, gaining valuable experience with APIs and Database management.**
+* 🌱 Actively learning **C#** and **U#** (VRChat) and always eager to pick up new languages.
 
 ## Github Stats
 
