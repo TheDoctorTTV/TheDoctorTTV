@@ -11,7 +11,7 @@ I stream on YouTube and Twitch. I have a moderate amount of programming experien
 * **Databases**
 * **Self-Hosting**
 
-### Game/Engine Development
+### Programming Languages
 * **C#**
 * **Python**
 * **U#** (VRChat/Udon Sharp)
