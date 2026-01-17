@@ -7,6 +7,7 @@ I stream on YouTube and Twitch. I have a moderate amount of programming experien
 ### Web & General
 * **HTML**
 * **CSS**
+* **JS**
 * **APIs**
 * **Databases**
 * **Self-Hosting**
