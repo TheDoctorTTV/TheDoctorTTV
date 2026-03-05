@@ -26,5 +26,5 @@ I stream on YouTube and Twitch. I have a moderate amount of programming experien
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDoctorTTV&show_icons=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=thedoctorttv&theme=transparent&border_radius=25)](https://git.io/streak-stats)
 
